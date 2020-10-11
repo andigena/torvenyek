@@ -1,6 +1,6 @@
 # Magyar törvények git repo
 
-Ebben a repositoryban a fontosabb magyar törvények (jelenleg csak a Ptk) érhetőek el, könnyen olvasható TXT és HTML, illetve automatikusan feldolgozásra szánt JSON formátumban. Az egyes commitok az egyes törvénymódosítások hatálybalépését reprezentálják, helyes dátummal, időrendben. Így egy egyszerű "checkout" segítségével elérhető az akkor hatályos joganyag, vagy egy diff tool segítségével könnyen olvashatóak a módosítások:
+Ebben a repository-ban a fontosabb magyar törvények (jelenleg csak a Ptk) érhetőek el, könnyen olvasható TXT és HTML, illetve automatikus feldolgozásra szánt JSON formátumban. Az egyes commitok az egyes törvénymódosítások hatálybalépését reprezentálják, helyes dátummal, időrendben. Így egy egyszerű "checkout" segítségével elérhető az akkor hatályos joganyag, vagy egy diff tool segítségével könnyen olvashatóak a módosítások:
 
 ![Ptk egy módosítása meld-ben](/ptk_meld.png?raw=true)
 
@@ -33,4 +33,4 @@ Ugyan a törvényszövegek maguk valószínűleg nem tartozhatnak szerzői jog a
 
 Viszont: nagyon szívesen adok engedélyt a másolására, használatára, a legtöbb célra ingyenesen, csak kérem keressen meg e-mailben vagy github issue-val.
 
-2020.10.11, Badics Alex
+Badics Alex, 2020.10.11.
